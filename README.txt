@@ -4,4 +4,5 @@
 devem estar no mesmo diretório do arquivo .py que contêm o código-fonte.
 	É possível rodar o programa pelo CMD do Windows 10 ou Terminal do Linux 
 acessando o diretório onde está o codigo fonte e utilizar o comando "python3 Trab1-Nilson.py".
-Para isso basta ter o python 3 instalado no sistema.
+	Para isso basta ter o python 3 instalado no sistema.
+	Para evitar problemas na execução as linguagens e strings devem seguir o formato dos exemplos dados.
